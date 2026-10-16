@@ -1,0 +1,16 @@
+# TeX build artifacts
+build/
+*.aux
+*.log
+*.nav
+*.out
+*.pdf
+!assets/bit_logo.pdf
+*.snm
+*.synctex.gz
+*.toc
+*.xdv
+
+# Local workspace files
+work/
+.DS_Store
